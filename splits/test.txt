@@ -1,0 +1,158 @@
+The Associate Data Scientist develops and executes statistical and mathematical solutions to business problems within the context of well-defined procedures	0	0	0
+Strong understanding of statistical theory and applications. Strong knowledge and hands-on experience with Machine Learning and/or Big Data techniques (Spark, Pig, Hive) is a big plus.	0	0	0
+Experience in large scale software development and product development process (code design, test plan and code reviews)	0	0	0
+Excellent degree from a top university with strong A-levels (ideal 300+ UCAS points)	1	1	1
+This person should have excellent communication, storytelling and influential skills to share the findings and communicate with technical and business partners.	0	0	0
+We are looking for “out of the box” thinkers that are challenged by our clients to offer innovative approaches to address new system designs, and/or improve existing processes.	1	1	1
+Comcast is looking for a Principle Data Analytics Engineer who will support RDK Product Management, Development, Engineering Support and Executive Leadership teams with collecting and analyzing data from various sources to solve key Business use cases	0	0	0
+An ambitious worker who can handle the fast-paced and demanding culture of a high-growth startup	1	1	1
+Ability to excel in a fast-paced, multi-tasking, team environment	1	1	1
+Fast learner – you will be taught lots of different things in a short space of time. Be a good listener and good at taking and keeping notes, asking the right questions.	1	1	1
+Fast-paced and result-oriented, and can work under great pressure	1	1	1
+As a Data Scientist at Green Dot, you will be helping drive revenue and reduce costs across the organization by data mining, testing, analyzing and transforming data into actionable insights	0	0	0
+In this highly visible role, the successful candidate will be able to think like an analytic leader with business acumen, collaborate in a team environment, and communicate results effectively to senior management.	0	0	0
+We are open and honest, driving innovation through internal collaboration.	0	0	0
+Demonstrate a high degree of originality and creativity when developing solutions to solve problems like risk analysis, document classification etc.	1	0	0
+Through innovative software as a service solutions, strategic acquisitions, and a vibrant ecosystem of alliances, we are redefining what it means to work with McKinsey.	0	0	0
+IBM Global Business Services (GBS) is hiring a Data Scientist for our Cognitive & Analytics Consulting Practice	0	0	0
+Ability to translate client requests into approach statements and project plans Ability to work in a highly collaborative, team-oriented environment	0	0	0
+Align required resources to client schedules Mentor data engineers and architects on requirements	0	0	0
+Previous experience with various computational approaches along with an ability to demonstrate a portfolio of relevant prior projects is essential	0	0	0
+Superb communication skills, team player	0	0	0
+Ability to work and deliver results under tight deadlines and with limited oversight while managing across multiple functions	1	1	1
+You are genuinely a people person, someone who makes friends easily and enjoy interacting with Austinites of all sorts	0	0	0
+Internally, the Government Funding Expert will work closely with our key players in Promotions, New Products and Partnerships to make sure everything we learn from those who connect with us can be built into our solution space	0	0	0
+Experience with recommender systems, information retrieval, graph analysis, statistical modeling, neural network, and natural language processing	0	0	0
+Provides ongoing reporting based on analysis and interpretation of large data sets, provide actionable recommendations based on findings	0	0	0
+Experience working independently with minimal guidance	1	1	1
+Smart, creative and hard-working, with a proactive personality and commercial approach	1	1	1
+Ability to meet deadlines without sacrificing quality	0	0	0
+Build prototypes quickly to determine and demonstrate value Improve prototypes based on audience and testing feedback	1	1	1
+Our US Information Services team is seeking a recent college graduate for a data scientist position to construct elite analytical solutions and business insights for Equifax.	1	1	1
+Desire and ability to quickly learn the client’s business processes	1	1	1
+Team members may start doing a certain job when they join the team and may end up 6 months later doing something completely different and this is perfectly normal.	0	0	0
+A wealth of experience in playing games, with a focus on mobile and social online games.	0	0	0
+Perfectionist, fast learner, communicative	1	1	1
+Ability to work in a challenging, dynamic environment with multiple interactions across teams with different backgrounds ranging from sales, services to research	1	1	1
+we are looking for someone with strong background in machine learning and statistical analysis	0	0	0
+High level of autonomy is required	0	0	0
+Bachelor’s degree, technical degree or certifications preferred	0	0	0
+Detailed-Oriented - ability to develop detailed plans and then execute on those plans	1	1	1
+The motivation to achieve results in a fast-paced environment.	1	1	1
+We are looking for talented, hard-working individuals to join our team.	0	0	0
+Fast learner with solid communication skills	1	1	1
+Biased toward action, great collaborator and master simplifier, constantly pushing toward clarity and delivery	1	1	1
+Develops robust analytic capabilities to ensure best in class Logistics Operations sourcing	0	0	0
+MSc (PhD preferred) in hard sciences or computer science, natural language processing, machine learning Extensive experience working with various datasets, familiarity with common schemas, and an understanding of both the power and shortcomings of data	0	0	0
+Working on a range of clients from small to global.	0	0	0
+Amgen is seeking early career Data Scientists to play a major role in accelerating capabilities in the entire Data Science landscape across all geographies and business functions including Research & Development, Operations, Global Commercial Operations, and Information Systems.	1	0	1
+Thrives in a collaborative team environment with the ability to communicate effetely with team members across the organization including peers, development, product management, and management	0	0	0
+Whether you want to design the transportation technology of tomorrow, support the staff functions of a dynamic, international leader, or build our excellent products and services — you can develop the career you desire with PACCAR.	0	0	0
+You will be encouraged to think creatively and independently to influence and drive decision-making.	1	0	0
+The Medopad team is seeking an energetic and highly motivated software engineer to work on building backend systems.	1	1	1
+To succeed in this position; a candidate should be curious, creative and tech savvy.	1	1	1
+An unrelenting desire to be the #1 performer in anything you do, yet collaborative and a strong team player.	1	1	1
+Social media marketing - creating, managing and growing Pearlshare’s presence through blogs, Twitter, Facebook and other relevant online properties	0	0	0
+Ability and enthusiasm for learning new technologies rapidly	1	1	1
+Smart Energetic Outgoing	1	1	1
+Organized, efficient time management	0	0	0
+This position requires a person who will guide and lead the team	0	0	0
+You love organizing resources, including people, to achieve lofty goals	0	0	0
+You will work closely with our product, engineering, and editorial teams to deliver the highest-quality content quickly and at scale.	1	0	1
+To develop, deploy and/or upgrade analytical tools and processes; including the collection, analysis and reporting for/on strategic sourcing Transportation/Logistics activities and initiatives	0	0	0
+Two years of previous scientific programming or tool development experience	1	0	1
+Experience managing global projects and global clients is a must.	0	0	0
+Along with the prestige of joining an exciting brand in its early days, we offer competitive packages.	0	0	0
+The employee must not have any limitations that would reduce their ability to drive a vehicle safely for company business.	1	1	1
+Ability to work as part of a growing entrepreneurial team with little supervision and enjoy working independently in a fast-paced, dynamic environment	1	1	1
+As part of the Namely marketing team, you will be part of a small group of highly motivated individuals paving the path to growth by combining great marketing with the use of technology and data.	0	0	0
+We are looking for a high performer to join our team and help us solve challenging and interesting business problems t	1	1	1
+Leading the execution of data analytic projects, including coordination of agency and university partnerships. Evaluating the quality and reliability of a dataset. Obtaining, merging, reshaping, and cleaning datasets.	0	0	0
+The position’s responsibilities will develop considerably as the business grows both physically and geographically, as well as in complexity.	0	0	0
+TEC Consulting’s Insights Practice is looking for a smart, energetic person that is intimately familiar with mining big data & delivering big vision,	1	1	1
+Passionate about data driven products. Passionate about uncovering stories in the local news space.	1	0	0
+This may entail querying databases data processing supervised and unsupervised machine learning deploying production models and communicating findings	0	0	0
+You thrive in a collaborative and dynamic environment	1	1	1
+Operating knowledge of AWS, Hadoop, Datameer or similarWorking knowledge of JAVA and CSSHigh degree of organization and ability to manage multiple, competing priorities simultaneously	0	0	0
+Strong organisation skills with extreme attention to detail	1	1	1
+Establish comprehensive plan for collecting, processing, exploiting and managing publicly available information and intelligence products. Ensuring system is flexible and adaptable to evolving requirements and provides access and collaboration across the Enterprise.	0	0	0
+Awesome research skills - drive to understand government funding space inside out, and the ability to convert complex briefs in to easily digestible sets of requirements.	0	0	0
+Someone whose first instinct is to seek clarification and go the extra mile to ensure proper project completion	1	1	1
+can deal with ambiguity and effectively cope with change	0	1	0
+Their dynamic and fun environment is a great place to work and realize your potential today!	1	1	1
+Be well spoken, clear and patient with all interactions	0	0	0
+Analytical, creative, and innovative approach to solving open-ended problems	1	1	1
+Detail and goal oriented	1	1	1
+2 years' relevant experience plus a Bachelor's Degree in Epidemiology, Statistics, Biostatistics, Applied Mathematics, Operations Research, or other relevant field is required.	0	0	0
+Must possess a Bachelor of Science Degree and 8 years of experience, years of experience can replace degree requirements. Applied Science Degree and/or Advanced Degree preferred	0	0	0
+You will build complex Data Science solutions for large-scale product initiatives, scaling up to a Petabyte of data.	0	0	0
+The Dataiku Training Specialist must be ambitious, outgoing and tech-savvy, and must be prepared to learn new skills and work with different profiles and experiences in many interesting fields.	1	1	1
+A fast learner who is self-motivated, curious, and open-minded	1	1	1
+Work with our development team to help automate our decision-making process	0	0	0
+A communicative person who values building strong relationships with colleagues and partners and enjoys mentoring and teaching others	0	0	0
+Team player and open to change with an amazing work ethic and fun and friendly attitude.	1	1	1
+Flexible, dynamic personality who is able to work independently	1	1	1
+Be a leading expert and organizational resource on developing and evaluating advanced analytics.	0	0	0
+The Service Desk Analyst is responsible for providing customer service and technical support to Virteva’s Managed Services customers.	0	0	0
+Help in the design, development, evaluation and monitoring of forecasts, predictive models, and advanced algorithms that help business to drive decisions and better understand/predict user behavior and long term trends.	0	0	0
+Ability to effectively gather data and prepare client-facing materials	0	0	0
+The ideal candidate will not only possess well developed administration skills but also bring ‘added value’ to the team with talents in either graphic design, training, marketing or have a tech savvy background	1	1	1
+Enjoys the art of sales and cold-calling coupled with a relentless hunter mentality.	1	1	1
+Build and maintain code to populate HDFS, Hadoop with log from Kafka or data loaded from SQL production systems	0	0	0
+Energetic and brings enthusiasm in performing job duties	1	1	1
+Partner with the software engineering and product teams to design live experiments and create insights by applying your expertise in quantitative analysis, data mining and machine learning.	0	0	0
+We believe in trust and responsibility rather than command and control.	0	0	0
+Ability to succinctly and accurately explain a complex solution to any audience	0	0	0
+We believe in openness and transparency.	0	0	0
+Manage the development of world-class Data Science/Analytics products to tap newer market opportunities	0	0	0
+Ability to initiate and drive projects to completion with minimal guidance in a fast-paced dynamic environment.	1	1	1
+Collaborate in multidisciplinary agile teams/squads to collect requirements, user specifications, approvals, and verify functionality and usefulness prior to full development of solutions	0	0	0
+You must be able to translate fluidly between data science and cybersecurity concepts	0	0	0
+Has the training, experience, and mindset to turn strategic business initiatives into innovative Data Science solutions	0	0	0
+Join our team, and play a key role in helping to design our clients’ roadmap to the future and help transform the Federal marketplace.	0	0	0
+We are weeks away from our public launch and looking for a committed team member to join us at this really exciting time in the company’s journey.	0	0	0
+Work with smart and creative people who love their job and get stuff done	1	1	1
+Ability to work effectively with many different work groups (Technology, Creative, Account management, etc.)	0	0	0
+Not looking for someone who is looking to maintain status quo	1	1	1
+Are you ready to make a huge impact on your company's success?	0	0	0
+Strong hands-on skills in sourcing, cleaning, manipulating and analyzing large volumes of data	0	0	0
+8+ years of professional work experience implementing full lifecycle solutions with data warehousing, data integration, advanced analytics or business intelligence	0	0	0
+Able to climb and descend stairs	1	1	1
+Skill in resolving basic software problems or malfunctions	0	0	0
+You’ll work with our fraud and trust experts to understand all the nitty gritty details of what’s working well and where we need to fill gaps.	0	0	0
+>Working on a range of new and ongoing in-house products	0	0	0
+Handle time-sensitive and confidential material	0	0	0
+Responsible, self-directed individual who knows what needs to be done and operates with urgency, focus and discipline.	0	0	0
+We are PIMCO, a leading global asset management firm. We manage investments and develop solutions across the full spectrum of asset classes, strategies and vehicles: fixed income, equities, commodities, asset allocation, ETFs, hedge funds and private equity.	0	0	0
+We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives.	0	0	0
+Have meaningfull experience of selling B2B products &amp; services	0	0	0
+Experienced with business intelligence tools such as Tableau	0	0	0
+Strong mathematical/scientific programming skills and data visualization in Python or R	0	0	0
+We are looking for an energetic, efficient and enthusiastic Finance Manager to join our in-house Operations team in our Indian offices.	1	1	1
+Administrative duties will include managing relationships with and providing support to dozens of promoters, coordinating meetings and schedules, preparing events listings, proof reading, preparing reports, work on special projects and events, research, data analysis, and compiling information on current events as needed.	0	0	0
+Proactively providing ideas and critical feedback—as well as being open to such constructive dialogue—as part of constantly improving the Lab and its collective work output.	0	0	0
+Often this position may be required to drive hundreds of miles per day or at night.	1	1	1
+You compulsively communicate a vision for the future	0	0	0
+Read something interesting online today? There's a good chance it reached you because of our technology.	0	0	0
+This two-year rotation program will expose you to four different business areas and you will be introduced to the many nuances and complexities of our organization.	1	0	0
+Utilize data science and development skills to automate manual analytic processes, generate analytic models, and enable analysts to exploit data holdings	0	0	0
+Set and communicate team/individual objectives and KPI to inspire individuals to achieve high performance	0	0	0
+Deliver on billable data science projects to external customers on behalf of Microsoft Services Data & AI domain.	0	0	0
+A strong background in data analytics, data science, and/or fraud analysis is required.	0	0	0
+Extract data from a variety of sources (databases, web, text files) and in a variety of formats (structured, unstructured, JSON, Parquet, etc.) a	0	0	0
+nfluencing business decisions - relentlessly leverage our work and encourage adoption across our business partners, to drive real business value	0	0	0
+Our work environment is casual, employee centered, professional, and very comfortable, with an open door policy.	0	0	0
+ability to quickly learn and achieve proficiency in new software applications	1	1	1
+This is an administrive role but you're a creative person brimming with ideas of your own.	1	1	1
+We're well funded, fun and focused on building the very best in supply chain	1	1	1
+Ideal Candidates Will Have: -Multiple years of Business Intelligence with the ability to work with structured and unstructured data -Multiple years of programming with C, C++, Java, or JavaScript languages -Experience working with AWS Services such as Redshift, S3, Athena, Kinesis My client has already begun interviewing candidates and is seeking to hire quickly	0	0	0
+We continually push ourselves to respond, to adapt, to go further.	1	1	1
+Forecasting and managing development related budgets	0	0	0
+We are seeking a senior-level Data Scientist to join our team.	0	0	0
+We are working with massive amounts of data...a few BILLION DATA POINTS A DAY!!!!	0	0	0
+This is an exciting environment where you will have the opportunity to develop your skills solving interesting problems. Work with other smart people and be challenged in your work embracing new technologies and approaches.	0	1	1
+You are not just looking for another job	0	0	0
+They will design innovative analytic models and will be responsible for pulling and cleaning datasets, evaluating models, and presenting results to internal teams.	0	0	0
+>Optimizing the resulting content for social shares / search engines	0	0	0
+Are you ready to quit that boring corporate job and work in a fast-paced, start-up environment?	0	0	0
+We’re looking for someone who is not afraid to fail, and definitely not afraid to learn.	0	0	0
